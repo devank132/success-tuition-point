@@ -1,0 +1,48 @@
+.name{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.future{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.experence{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.location{
+    background-color: black;
+    display: flex;
+    border: solid;
+    justify-content: center;
+}
+.infrom{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.number{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.onlineclass{
+    background-color: black;
+    color: white;
+}
+.google{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: baseline;
+}
